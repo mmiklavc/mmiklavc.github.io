@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My New Technical Blog"
+date:   2014-04-05 17:21:26
+categories: jekyll update
+---
+
+I setup this Jekyll blog using GitHub Pages as a place to record my technical musings. Minimally, I'll have a place to keep record of things of interest to me, but I hope others will find it useful as well.
+
+Mike

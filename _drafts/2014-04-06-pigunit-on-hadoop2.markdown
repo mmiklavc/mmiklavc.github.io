@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-04-05 17:21:26
+title:  "Getting PigUnit Running With Hadoop 2"
+date:   2014-04-06 16:10:00
 categories: jekyll update
 ---
 
