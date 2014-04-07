@@ -26,4 +26,4 @@ I've created a freely-available GitHub project to solve both problems. Check it 
 
 Then be sure to invoke the PigUnitUtil.runFix() method. See example here - [PigUnitUtilTest](https://github.com/mmiklavc/maven-project-templates/blob/master/pig/pig-deps/src/test/java/com/michaelmiklavcic/hadoop/pig/PigUnitUtilTest.java)
 
-Credit and thanks to @cestella and @mwacc for their contributions.
+Credit and thanks to @cestella [http://www.caseystella.com]((http://www.caseystella.com)) and @mwacc for their contributions.
