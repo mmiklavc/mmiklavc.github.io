@@ -6,7 +6,7 @@ categories: hadoop pig pigunit testing
 ---
 
 I'll keep this short and sweet. Currently, if you try to run PigUnit on a Windows machine, you'll get an exception as follows:
-{% highlight ruby %}
+{% highlight java %}
 java.io.IOException: Could not locate executable null\bin\winutils.exe 
 in the Hadoop binaries.
 {% endhighlight %}
@@ -16,7 +16,7 @@ I've put together a set of Maven project templates that accomplish two goals:
 2. Provide a way to get around the Windows IOException
 
 I've created a freely-available GitHub project to solve both problems. Check it out here - [maven project template](https://github.com/mmiklavc/maven-project-templates). First build the "testing" project (mvn clean install), then do the same in the pig-deps project. You just need to reference the pig-deps project in your Maven project as follows:
-{% highlight ruby %}
+{% highlight xml %}
 <dependency>
     <groupId>com.michaelmiklavcic</groupId>
     <artifactId>pig-test-deps</artifactId>

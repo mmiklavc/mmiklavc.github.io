@@ -9,7 +9,7 @@ I'm happy to announce another contribution to the Apache Falcon project. A previ
 
 [FALCON-391](https://issues.apache.org/jira/browse/FALCON-391)
 
-{% highlight ruby %}
+{% highlight bash %}
 <properties>
     ...
     <property name="maxMaps" value="8"/> <!-- max mappers used during replication -->
