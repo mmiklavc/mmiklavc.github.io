@@ -1,5 +1,6 @@
 name: Michael Miklavcic's Blog
-markdown: redcarpet
-pygments: true
+kramdown:
+  input: GFM
+highlighter: pygments
 gems:
   - jekyll-mentions

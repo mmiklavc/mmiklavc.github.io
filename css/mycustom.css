@@ -14,7 +14,7 @@
     height: 10px;
     content: ' ';
     left: 12px;
-    bottom: 14px;
+    bottom: 16px;
     background: transparent;
     -webkit-transform: skew(-5deg) rotate(-5deg);
     -moz-transform: skew(-5deg) rotate(-5deg);
